@@ -1,0 +1,54 @@
+[
+    {
+       "name":"김수민",
+       "description":"14.5기 웹 파트장",
+       "link":[
+          "https://github.com/milk717",
+          "https://milk717.github.io/"
+       ],
+       "image":"https://avatars.githubusercontent.com/u/57657868?v=4"
+    },
+    {
+       "name":"윤대훈",
+       "description":"14.5기 웹 팀원",
+       "link":[
+          "https://github.com/YunDH218"
+       ],
+       "image":"https://avatars.githubusercontent.com/u/68414997?v=4"
+    },
+    {
+       "name":"이지호",
+       "description":"14.5기 웹 팀원",
+       "link":[
+          "https://github.com/leejiho9898",
+          "https://izizi.tistory.com/"
+       ],
+       "image":"https://avatars.githubusercontent.com/u/84016039?v=4"
+    },
+    {
+       "name":"이재하",
+       "description":"14.5기 웹 팀원",
+       "link":[
+          "https://github.com/leejha",
+          "https://jha-memo.tistory.com/"
+       ],
+       "image":"https://avatars.githubusercontent.com/u/57664427?v=4"
+    },
+    {
+       "name":"이하령",
+       "description":"14.5기 웹 팀원",
+       "link":[
+          "https://github.com/haryung-lee",
+          "https://velog.io/@lhr4884"
+       ],
+       "image":"https://avatars.githubusercontent.com/u/64428916?v=4"
+    },
+    {
+       "name":"홍정우",
+       "description":"14.5기 웹 팀원",
+       "link":[
+          "https://github.com/Martinelli-3535"
+       ],
+       "image":"https://avatars.githubusercontent.com/u/79641160?v=4"
+    }
+ ]

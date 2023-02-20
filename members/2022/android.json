@@ -1,0 +1,19 @@
+[
+    {
+        "name":"장희직",
+        "description":"14기 안드로이드 파트장",
+        "link":[
+           "https://github.com/jhg3410"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/80373033?v=4"
+     },
+    {
+       "name":"이용인",
+       "description":"14.5기 안드로이드 파트장",
+       "link":[
+          "https://github.com/LeeYongIn0517",
+          "https://velog.io/@yongin01"
+       ],
+       "image":"https://avatars.githubusercontent.com/u/67788699?v=4"
+    }
+ ]
