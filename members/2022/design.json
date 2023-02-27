@@ -1,8 +1,24 @@
 [
+   {
+       "name":"박소현",
+       "description":"13기, 14.5기 디자인 파트장",
+       "link":["https://www.behance.net/sohyeon052ce72"],
+       "image":""
+    },
     {
-        "name":"박소현",
-        "description":"14기, 14.5기 디자인 파트장",
-        "link":[],
-        "image":""
-     }
- ]
+       "name":"김가온",
+       "description":"14기",
+       "image":""
+    },
+    {
+       "name":"나혜주",
+       "description":"14.5기,",
+       "image":""
+    },
+
+   {
+       "name":"배가희",
+       "description":"14.5기",
+       "image":""
+   }
+]
