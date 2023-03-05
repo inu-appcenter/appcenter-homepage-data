@@ -25,6 +25,14 @@
         "image":"https://avatars.githubusercontent.com/u/84578465?v=4"
     },
     {
+        "name":"노윤지",
+        "description":"14.5기 서버 팀원,",
+        "link":[
+            "https://github.com/dbswl067"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/76262688?v=4"
+    },
+    {
         "name":"이주원",
         "description":"14.5기 서버 팀원",
         "link":[
@@ -49,13 +57,5 @@
             "https://eggmomo.tistory.com/"
         ],
         "image":"https://avatars.githubusercontent.com/u/114793764?v=4"
-    },
-    {
-        "name":"노윤지",
-        "description":"14.5기 서버 팀원,",
-        "link":[
-            "https://github.com/dbswl067"
-        ],
-        "image":"https://avatars.githubusercontent.com/u/76262688?v=4"
     }
  ]
