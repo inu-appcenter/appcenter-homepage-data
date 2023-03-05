@@ -6,5 +6,40 @@
            "https://github.com/nahyeon99"
         ],
         "image":"https://avatars.githubusercontent.com/u/69833665?v=4"
-     }
+    },
+    {
+        "name":"안검성",
+        "description":"14기 서버",
+        "link":[
+            "https://github.com/gs97ahn",
+            "https://gs97ahn.github.io/"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/84578465?v=4"
+    },
+    {
+        "name":"이주원",
+        "description":"14.5기 서버",
+        "link":[
+            "https://github.com/Juser0"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/108407945?v=4"
+    },
+    {
+        "name":"정동현",
+        "description":"14.5기 서버",
+        "link":[
+            "https://github.com/jd-hyun",
+            "https://velog.io/@jd-hyun"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/98350310?v=4"
+    },
+    {
+        "name":"정은기",
+        "description":"14.5기 서버",
+        "link":[
+            "https://github.com/eunki96",
+            "https://eggmomo.tistory.com/"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/114793764?v=4"
+    }
  ]

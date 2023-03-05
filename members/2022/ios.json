@@ -7,5 +7,55 @@
            "https://velog.io/@o_joon_"
         ],
         "image":"https://avatars.githubusercontent.com/u/75382687?v=4"
-     }
- ]
+    },
+    {
+        "name":"김응철",
+        "description":"14기 iOS",
+        "link":[
+            "https://github.com/eung7",
+            "https://medium.com/@eung7"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/97531269?v=4"
+    },
+    {
+        "name":"한지훈",
+        "description":"14.5기 iOS",
+        "link":[
+            "https://github.com/jihunhan98"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/83203316?v=4"
+    },
+    {
+        "name":"김민정",
+        "description":"14.5기 iOS",
+        "link":[
+            "https://github.com/poly9010"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/66791731?v=4"
+    },
+    {
+        "name":"이창준",
+        "description":"14.5기 iOS",
+        "link":[
+            "https://github.com/nomatterjun",
+            "https://nomatterjun.github.io/"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/60438045?v=4"
+    },
+    {
+        "name":"정지훈",
+        "description":"14.5기 iOS",
+        "link":[
+            "https://github.com/jihun32"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/75370733?v=4"
+    },
+    {
+        "name":"강수호",
+        "description":"14.5기 iOS",
+        "link":[
+            "https://github.com/tnghrkd"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/67592155?v=4"
+    }
+]

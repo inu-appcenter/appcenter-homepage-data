@@ -15,5 +15,69 @@
           "https://velog.io/@yongin01"
        ],
        "image":"https://avatars.githubusercontent.com/u/67788699?v=4"
+    },
+    {
+        "name":"신서연",
+        "description":"13기 안드로이드",
+        "link":[
+            ""
+        ],
+        "image":""
+    },
+    {
+        "name":"고도흔",
+        "description":"14기 안드로이드",
+        "link":[
+            ""
+        ],
+        "image":""
+    },
+    {
+        "name":"지혜원",
+        "description":"14기 안드로이드",
+        "link":[
+            ""
+        ],
+        "image":""
+    },
+    {
+        "name":"최경민",
+        "description":"14기 안드로이드",
+        "link":[
+            ""
+        ],
+        "image":""
+    },
+    {
+        "name":"김현빈",
+        "description":"14.5기 안드로이드",
+        "link":[
+            ""
+        ],
+        "image":""
+    },
+    {
+        "name":"이현승",
+        "description":"14.5기 안드로이드",
+        "link":[
+            "https://github.com/HyunDDeung"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/100349477?v=4"
+    },
+    {
+        "name":"조민수",
+        "description":"14.5기 안드로이드",
+        "link":[
+            "https://github.com/msckr"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/91575646?v=4"
+    },
+    {
+        "name":"조하은",
+        "description":"14.5기 안드로이드",
+        "link":[
+            "https://github.com/hani0903"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/108499120?v=4"
     }
  ]
