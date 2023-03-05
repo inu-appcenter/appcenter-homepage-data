@@ -8,8 +8,16 @@
         "image":"https://avatars.githubusercontent.com/u/69833665?v=4"
     },
     {
+        "name":"김서현",
+        "description":"13.5기 서버 팀원",
+        "link":[
+            "https://github.com/seohyun-kim"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/61939286?v=4"
+    },
+    {
         "name":"안검성",
-        "description":"14기 서버",
+        "description":"14기 서버 팀원",
         "link":[
             "https://github.com/gs97ahn",
             "https://gs97ahn.github.io/"
@@ -18,7 +26,7 @@
     },
     {
         "name":"이주원",
-        "description":"14.5기 서버",
+        "description":"14.5기 서버 팀원",
         "link":[
             "https://github.com/Juser0"
         ],
@@ -26,7 +34,7 @@
     },
     {
         "name":"정동현",
-        "description":"14.5기 서버",
+        "description":"14.5기 서버 팀원",
         "link":[
             "https://github.com/jd-hyun",
             "https://velog.io/@jd-hyun"
@@ -35,11 +43,19 @@
     },
     {
         "name":"정은기",
-        "description":"14.5기 서버",
+        "description":"14.5기 서버 팀원",
         "link":[
             "https://github.com/eunki96",
             "https://eggmomo.tistory.com/"
         ],
         "image":"https://avatars.githubusercontent.com/u/114793764?v=4"
+    },
+    {
+        "name":"노윤지",
+        "description":"14.5기 서버 팀원,",
+        "link":[
+            "https://github.com/dbswl067"
+        ],
+        "image":"https://avatars.githubusercontent.com/u/76262688?v=4"
     }
  ]

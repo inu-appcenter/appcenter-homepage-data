@@ -2,23 +2,28 @@
    {
        "name":"박소현",
        "description":"13기\n14.5기 디자인 파트장",
-       "link":["https://www.behance.net/sohyeon052ce72"],
-       "image":""
+       "link":[
+           "https://www.behance.net/sohyeon052ce72"
+       ],
+       "image":"https://mir-s3-cdn-cf.behance.net/user/230/f5584c460392985.63fc90ec2231f.jpg"
     },
     {
        "name":"김가온",
-       "description":"14기",
+       "description":"디자인 14기 팀원",
        "image":""
     },
     {
        "name":"나혜주",
-       "description":"14.5기",
+       "description":"디자인 14.5기 팀원",
        "image":""
     },
 
    {
        "name":"배가희",
-       "description":"14.5기",
-       "image":""
+       "description":"디자인 14.5기 팀원",
+       "link": [
+           "https://github.com/baeab"
+       ],
+       "image":"https://avatars.githubusercontent.com/u/114586593?v=4"
    }
 ]

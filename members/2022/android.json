@@ -18,7 +18,7 @@
     },
     {
         "name":"신서연",
-        "description":"13기 안드로이드",
+        "description":"13기 안드로이드 팀원",
         "link":[
             ""
         ],
@@ -26,39 +26,40 @@
     },
     {
         "name":"고도흔",
-        "description":"14기 안드로이드",
+        "description":"14기 안드로이드 팀원",
         "link":[
-            ""
+            "https://github.com/DoHeunKo"
         ],
-        "image":""
+        "image":"https://avatars.githubusercontent.com/u/98294597?v=4"
     },
     {
         "name":"지혜원",
-        "description":"14기 안드로이드",
+        "description":"14기 안드로이드 팀원",
         "link":[
-            ""
+            "https://github.com/altpfwlzh"
         ],
-        "image":""
+        "image":"https://avatars.githubusercontent.com/u/103296628?v=4"
     },
     {
         "name":"최경민",
-        "description":"14기 안드로이드",
+        "description":"14기 안드로이드 팀원",
         "link":[
-            ""
+            "https://github.com/KimWash",
+            "http://blog.kimwash.xyz/?page=1"
         ],
-        "image":""
+        "image":"https://avatars.githubusercontent.com/u/47469682?v=4"
     },
     {
         "name":"김현빈",
-        "description":"14.5기 안드로이드",
+        "description":"14.5기 안드로이드 팀원",
         "link":[
-            ""
+            "https://github.com/YangNu"
         ],
-        "image":""
+        "image":"https://avatars.githubusercontent.com/u/92162928?v=4"
     },
     {
         "name":"이현승",
-        "description":"14.5기 안드로이드",
+        "description":"14.5기 안드로이드 팀원",
         "link":[
             "https://github.com/HyunDDeung"
         ],
@@ -66,7 +67,7 @@
     },
     {
         "name":"조민수",
-        "description":"14.5기 안드로이드",
+        "description":"14.5기 안드로이드 팀원",
         "link":[
             "https://github.com/msckr"
         ],
@@ -74,7 +75,7 @@
     },
     {
         "name":"조하은",
-        "description":"14.5기 안드로이드",
+        "description":"14.5기 안드로이드 팀원",
         "link":[
             "https://github.com/hani0903"
         ],
