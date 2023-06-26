@@ -1,10 +1,38 @@
 [
-    {
-        "name":"이주원",
-        "description":"15기 서버 파트장",
-        "link":[
-            "https://github.com/Juser0"
-        ],
-        "image":"https://avatars.githubusercontent.com/u/108407945?v=4"
-    }
+  {
+    "name": "이주원",
+    "description": "15기 서버 파트장",
+    "link": ["https://github.com/Juser0"],
+    "image": "https://avatars.githubusercontent.com/u/108407945?v=4"
+  },
+  {
+    "name": "구준형",
+    "description": "15기 서버 팀원",
+    "link": ["https://github.com/rnwnsgud"],
+    "image": "https://avatars.githubusercontent.com/u/78197563?v=4"
+  },
+  {
+    "name": "김동우",
+    "description": "15기 서버 팀원",
+    "link": ["https://github.com/wellbeing-dough"],
+    "image": "https://avatars.githubusercontent.com/u/102784323?v=4"
+  },
+  {
+    "name": "김원정",
+    "description": "15기 서버 팀원",
+    "link": ["https://github.com/NARUBROWN"],
+    "image": "https://avatars.githubusercontent.com/u/38902021?v=4"
+  },
+  {
+    "name": "이영재",
+    "description": "15기 서버 팀원",
+    "link": ["https://github.com/elyudwo"],
+    "image": "https://avatars.githubusercontent.com/u/97587573?v=4"
+  },
+  {
+    "name": "지은미",
+    "description": "15기 서버 팀원",
+    "link": ["https://github.com/jum0624"],
+    "image": "https://avatars.githubusercontent.com/u/76554385?v=4"
+  }
 ]

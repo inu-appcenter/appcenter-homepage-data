@@ -1,10 +1,18 @@
 [
-    {
-        "name":"박소현",
-        "description":"15기 디자인 파트장",
-        "link":[
-            "https://www.behance.net/sohyeon052ce72"
-        ],
-        "image":"https://mir-s3-cdn-cf.behance.net/user/230/f5584c460392985.63fc90ec2231f.jpg"
-    }
+  {
+    "name": "박소현",
+    "description": "15기 디자인 파트장",
+    "link": ["https://www.behance.net/sohyeon052ce72"],
+    "image": "https://mir-s3-cdn-cf.behance.net/user/230/f5584c460392985.63fc90ec2231f.jpg"
+  },
+  {
+    "name": "김은하",
+    "description": "15기 디자인 팀원",
+    "image": ""
+  },
+  {
+    "name": "이미영",
+    "description": "15기 디자인 팀원",
+    "image": ""
+  }
 ]

@@ -1,11 +1,20 @@
 [
-    {
-        "name":"김응철",
-        "description":"15기 iOS 파트장",
-        "link":[
-            "https://github.com/eung7",
-            "https://medium.com/@eung7"
-        ],
-        "image":"https://avatars.githubusercontent.com/u/97531269?v=4"
-    }
+  {
+    "name": "김응철",
+    "description": "15기 iOS 파트장",
+    "link": ["https://github.com/eung7", "https://medium.com/@eung7"],
+    "image": "https://avatars.githubusercontent.com/u/97531269?v=4"
+  },
+  {
+    "name": "최용현",
+    "description": "15기 iOS 팀원",
+    "link": ["https://github.com/eung7", "https://medium.com/@eung7"],
+    "image": "https://avatars.githubusercontent.com/u/97531269?v=4"
+  },
+  {
+    "name": "오혜령",
+    "description": "15기 iOS 팀원",
+    "link": ["https://github.com/eung7", "https://medium.com/@eung7"],
+    "image": "https://avatars.githubusercontent.com/u/97531269?v=4"
+  }
 ]
