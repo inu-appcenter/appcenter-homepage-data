@@ -1,26 +1,20 @@
 [
-    {
-        "name":"조민수",
-        "description":"15기 안드로이드 파트장",
-        "link":[
-            "https://github.com/msckr"
-        ],
-        "image":"https://avatars.githubusercontent.com/u/91575646?v=4"
-    },
-    {
-        "name":"서호준",
-        "description":"15기 안드로이드 팀원",
-        "link":[
-            "https://github.com/uselessnaming"
-        ],
-        "image":"https://avatars.githubusercontent.com/u/101941674?v=4"
-    },
-    {
-        "name":"이유경",
-        "description":"15기 안드로이드 팀원",
-        "link":[
-            "https://github.com/ugyeong0u0"
-        ],
-        "image":"https://avatars.githubusercontent.com/u/120684605?v=4"
-    }
+  {
+    "name": "조민수",
+    "description": "15기 안드로이드 파트장",
+    "link": ["https://github.com/msckr"],
+    "image": "https://avatars.githubusercontent.com/u/91575646?v=4"
+  },
+  {
+    "name": "서호준",
+    "description": "15기 안드로이드 팀원",
+    "link": ["https://github.com/uselessnaming"],
+    "image": "https://avatars.githubusercontent.com/u/101941674?v=4"
+  },
+  {
+    "name": "이유경",
+    "description": "15기 안드로이드 팀원",
+    "link": ["https://github.com/ugyeong0u0"],
+    "image": "https://avatars.githubusercontent.com/u/120684605?v=4"
+  }
 ]
